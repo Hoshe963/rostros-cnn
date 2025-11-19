@@ -1,4 +1,6 @@
-flask
+Flask
+gunicorn
 torch
 torchvision
-pillow
+Pillow
+numpy
